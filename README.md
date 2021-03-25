@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fatehab
+- 👋 Hi, I’m @Fatehab a girl who is passionate about coding :)
 - 👀 I’m interested in Computer Science, Programming!
 - 🌱 I’m currently learning Python, Java, Funtional Programming and more
 - 💞️ I’m looking to collaborate on projects 
